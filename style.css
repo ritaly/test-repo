@@ -3,6 +3,11 @@ section {
 	margin: 0 auto;
 }
 
+span {
+	background-color: #FDFD96;
+	padding: 2px 5px;
+}
+
 input[type=text] {
 	display:block;
     width: 60%;
