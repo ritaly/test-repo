@@ -1,0 +1,7 @@
+input[type=text] {
+	display:block;
+    width: 60%;
+    padding: 10px 35px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
